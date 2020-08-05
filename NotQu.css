@@ -77,8 +77,10 @@
 .u-section-2 .u-text-5 {margin-right: 198px}
 .u-section-2 .u-btn-4 {margin-right: 8px} }
 
-@media (max-width: 575px){ .u-section-2 .u-group-1 {min-height: 402px; margin-right: initial; margin-left: initial; width: auto}
-.u-section-2 .u-text-1 {font-size: 3rem; margin-top: 54px}
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 50vw}
+.u-section-2 .u-group-1 {min-height: 240px; margin-top: 189px; margin-right: initial; margin-left: initial; width: auto}
+.u-section-2 .u-container-layout-1 {padding-top: 5px}
+.u-section-2 .u-text-1 {font-size: 3rem}
 .u-section-2 .u-btn-1 {margin-left: 0}
 .u-section-2 .u-text-3 {margin-right: 234px; margin-left: 61px}
 .u-section-2 .u-btn-2 {margin-left: 132px}
